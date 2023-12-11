@@ -37,7 +37,6 @@ function App() {
             alert('Repositório não encontrado!');
           }
 
-
         } else {
           
           alert('Erro na chamada à API. Status Code: ' + response.status);
